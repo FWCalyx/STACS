@@ -18,7 +18,7 @@ namespace LacosteC868Task
 
         public StacsDB()
         {
-            connectionString = "server=wgudb.ucertify.com;user id=U08jw9;database=U08jw9;persistsecurityinfo=True;password=53689310665";
+            connectionString = "(removed for security)";
             myCon = new MySqlConnection(connectionString);
         }
 
